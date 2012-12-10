@@ -1,5 +1,4 @@
 #include "../Include/MAPDetector.h"
-#include "../Include/BasicDef.h"
 
 #include <math.h>
 #include <string.h>

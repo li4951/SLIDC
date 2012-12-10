@@ -2,7 +2,6 @@
  * The process of interleaving code
  */
 #include "../Include/Interleaver.h"
-#include "../Include/BasicDef.h"
 
 #include <malloc.h>
 #include <stdio.h>

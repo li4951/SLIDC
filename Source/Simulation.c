@@ -1,10 +1,4 @@
-#include "../Include/BasicDef.h"
-#include "../Include/OuterEncoder.h"
-#include "../Include/Interleaver.h"
-#include "../Include/InsertMarker.h"
-#include "../Include/Channel.h"
-#include "../Include/MAPDetector.h"
-#include "../Include/SumProductDecoder.h"
+#include "../Include/Simulation.h"
 
 #include <stdio.h>
 #include <stdlib.h>
